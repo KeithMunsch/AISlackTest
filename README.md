@@ -2,3 +2,8 @@
 ## Works!
 
 Added via slack bot
+
+### Fruits
+* Apple
+* Banana
+* Cherry
